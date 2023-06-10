@@ -1,11 +1,11 @@
 {
-  "name": "liveterm",
+  "name": "aterm",
   "version": "0.1.0",
   "license": "MIT",
   "author": {
-    "name": "Vincent Wu",
-    "url": "https://cveinnt.com",
-    "email": "contact@wensenwu.com"
+    "name": "Angiolillo Paolo",
+    "url": "https://angiolillopaolo.dev",
+    "email": "contactme@linkedin.com"
   },
   "scripts": {
     "dev": "next dev",
